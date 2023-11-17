@@ -11,24 +11,25 @@ let geojson_url = "https://raw.githubusercontent.com/jonarobin/Map-demo/main/Dem
 
 let markersLayer;
 let allCategories = []; // Array que almacena todas las categorías
-
 fetch(geojson_url)
     .then(res => res.json())
     .then(data => {
         markersLayer = L.geoJson(data, {
             pointToLayer: function (feature, latlng) {
                 allCategories = allCategories.concat(feature.properties.Rubro); // Agrega las categorías al array
-              
+
                 return L.marker(latlng, {
                     icon: L.divIcon({
                         className: 'custom-marker',
-                        html: `<div class="marker-content"><img class="marker-image" src="${feature.properties.Foto}" alt="${feature.properties.Nombre}" /></div>`
+                        html: `<div class="marker-content"><img class="marker-image" src="${feature.properties.Foto}" alt="${feature.properties.Nombre}" /></div>`,
+                        iconSize: [25, 41], // Tamaño del icono
+                        iconAnchor: [12, 41], // Punto de anclaje del icono
                     })
                 });
             },
             onEachFeature: function (feature, layer) {
                 layer.on('click', function () {
-                    window.location.href = feature.properties['URL Store'];
+                    window.open(feature.properties['URL Store'], '_blank');
                 });
             }
         });
@@ -37,6 +38,9 @@ fetch(geojson_url)
 
         map.fitBounds(markersLayer.getBounds());
     });
+
+
+
 
 let searchInput = document.getElementById('searchInput');
 const geocoder = L.Control.Geocoder.nominatim({
@@ -78,12 +82,8 @@ categoriaDropdown.addEventListener('change', function () {
     });
 });
 
-// Agrega un botón para cambiar manualmente entre las categorías
-
-
 let changeCategoryButton = document.getElementById('changeCategoryButton');
 let currentCategoryIndex = 0;
-
 
 changeCategoryButton.addEventListener('click', function () {
     currentCategoryIndex = (currentCategoryIndex + 1) % allCategories.length;
@@ -94,8 +94,6 @@ changeCategoryButton.addEventListener('click', function () {
         layer._icon.classList.add('hidden');
     });
 
-  
-  
     // Muestra solo los marcadores que cumplen con la categoría seleccionada
     markersLayer.eachLayer(function (layer) {
         let rubros = layer.feature.properties.Rubro;
