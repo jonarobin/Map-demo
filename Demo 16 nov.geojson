@@ -3929,22 +3929,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.5084103,
-          -34.6039153
-        ]
-      },
-      "properties": {
-        "Nombre": "ViPeluquería's (Leo Paparella) - Devoto",
-        "Rubro": "Peluquería",
-        "Foto": "https://drive.google.com/uc?id=1lKBYhmn5jQLu7xahWPpWnRH6rGj232l8",
-        "URL Store": "https://agenddo.com/vipeluqueria's-(leo-paparella)-devoto"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -58.3752252,
           -34.5993002
         ]
@@ -3956,22 +3940,7 @@
         "URL Store": "https://agenddo.com/vipeluqueria's-(leo-paparella)-galerias-pacifico"
       }
     },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -57.5402131,
-          -38.0083397
-        ]
-      },
-      "properties": {
-        "Nombre": "ViPeluquería's (Leo Paparella) - Mar del Plata",
-        "Rubro": "Peluquería",
-        "Foto": "https://drive.google.com/uc?id=1lKBYhmn5jQLu7xahWPpWnRH6rGj232l8",
-        "URL Store": "https://agenddo.com/vipeluqueria's-(leo-paparella)-mar-del-plata"
-      }
-    },
+   
     {
       "type": "Feature",
       "geometry": {
