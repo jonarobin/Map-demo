@@ -3844,6 +3844,23 @@
         "URL Store": "https://agenddo.com/vipeluqueria's-(leo-paparella)-belgrano"
       }
     },
+   {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5084103,
+          -34.6039153
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Devoto",
+        "Rubro": "Peluquería",
+        "Foto": "https://drive.google.com/uc?id=1lKBYhmn5jQLu7xahWPpWnRH6rGj232l8",
+        "URL Store": "https://agenddo.com/vipeluqueria's-(leo-paparella)-devoto"
+      }
+    },
+    
     {
       "type": "Feature",
       "geometry": {
@@ -3941,22 +3958,7 @@
       }
     },
    
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -57.5437628,
-          -38.0123927
-        ]
-      },
-      "properties": {
-        "Nombre": "ViPeluquería's (Leo Paparella) - MDQ Paseo Aldrey",
-        "Rubro": "Peluquería",
-        "Foto": "https://drive.google.com/uc?id=1lKBYhmn5jQLu7xahWPpWnRH6rGj232l8",
-        "URL Store": "https://agenddo.com/vipeluqueria's-(leo-paparella)-mdq-paseo-aldrey"
-      }
-    },
+   
     {
       "type": "Feature",
       "geometry": {
