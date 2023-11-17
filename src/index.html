@@ -1,5 +1,18 @@
-<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - 16 nov</title>
+  <link rel='stylesheet' href='https://unpkg.com/leaflet@1.9.4/dist/leaflet.css'>
+<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/leaflet-extra-markers/1.2.2/css/leaflet.extra-markers.min.css'>
+<link rel='stylesheet' href='https://unpkg.com/leaflet-search/dist/leaflet-search.min.css'>
+<link rel='stylesheet' href='https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.css'>
+<link rel='stylesheet' href='https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css'>
+<link rel='stylesheet' href='https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css'><link rel="stylesheet" href="./style.css">
 
+</head>
+<body>
+<!-- partial:index.partial.html -->
 <!DOCTYPE html>
 <html lang="en">
 
@@ -17,6 +30,24 @@
                     <option value="Manicura">Manicura</option>
                     <option value="Centro Estética">Centro Estética</option>
                     <option value="Depilación">Depilación</option>
+                    <option value="Tratamientos">Tratamientos</option>
+                    <option value="EyeBeauty">EyeBeauty</option>
+                    <option value="Peluquería">Peluquería</option>
+                    <option value="Barbería">Barbería</option>
+                    <option value="Medicina estética">Medicina estética</option>
+                    <option value="Masajes">Masajes</option>
+                    <option value="MakeUp">MakeUp</option>
+                    <option value="Spa">Spa</option>
+                    <option value="Pedicura">Pedicura</option>
+                    <option value="Bronceado">Bronceado</option>
+                    <option value="Dermatología">Dermatología</option>
+                    <option value="Cirugía">Cirugía</option>
+                    <option value="Cosmiatra">Cosmiatra</option>
+                    <option value="Reflexología">Reflexología</option>
+                    <option value="Cejas">Cejas</option>
+                    <option value="Pestañas">Pestañas</option>
+                    <option value="Cosmetología">Cosmetología</option>
+                    <option value="Labios">Labios</option>
                     <!-- Agrega más opciones de categorías según tus datos -->
                 </select>
 
@@ -28,8 +59,7 @@
         </div>
         <div class="row mt-3">
             <div class="col">
-                <!-- Agrega un identificador al iframe -->
-                <iframe id="mapFrame" src="mapa.html" width="600" height="400"></iframe>
+                <div id="map"></div>
             </div>
         </div>
     </div>
@@ -37,16 +67,16 @@
     <script src="https://cdn.jsdelivr.net/npm/mdb-ui-kit/js/mdb.min.js"></script>
     <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
     <script src="main.js"></script>
-
-    <script>
-        window.onload = function () {
-            var iframe = document.getElementById('mapFrame');
-            iframe.contentWindow.addEventListener('load', function () {
-                // Ajusta el tamaño del mapa después de cargar el contenido del iframe
-                iframe.contentWindow.adjustMapSize();
-            });
-        };
-    </script>
 </body>
 
+</html>
+<!-- partial -->
+  <script src='https://unpkg.com/leaflet@1.9.4/dist/leaflet.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/leaflet-extra-markers/1.2.2/js/leaflet.extra-markers.min.js'></script>
+<script src='https://unpkg.com/leaflet-search/dist/leaflet-search.min.js'></script>
+<script src='https://cdn.jsdelivr.net/npm/mdb-ui-kit/js/mdb.min.js'></script>
+<script src='https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.js'></script>
+<script src='https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js'></script><script  src="./script.js"></script>
+
+</body>
 </html>
