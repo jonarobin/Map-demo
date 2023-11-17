@@ -1,25 +1,4325 @@
 {
-  "Abinadab_Uñas": {
-    "Rubro": "Manicura",
-    "Latitud": -34.5571626,
-    "Longitud": -58.4622317,
-    "URL Store": "https://agenddo.com/abinadab-uñas",
-    "Foto": "https://drive.google.com/uc?id=1U0qJoOleYQ6qy9_6Zo0pQXk3mKqcZXHG"
-  },
-  "Academia Bayres Estética": {
-    "Rubro": "Centro Estética",
-    "Latitud": -34.6006292,
-    "Longitud": -58.4358278,
-    "URL Store": "https://agenddo.com/academia-bayres-estetica",
-    "Foto": "https://drive.google.com/uc?id=1XrfahqR3b8AwWW9Qz0_JkApCf8C8ykWh"
-  },
-  "Ambar Momento Femenino": {
-    "Rubro": [
-      "Manicura",
-      "Depilación"
-    ],
-    "Latitud": -34.5996988,
-    "Longitud": -58.4393878,
-    "URL Store": "https://agenddo.com/ambar-momento-femenino",
-    "Foto": "https://drive.google.com/uc?id=1JA4tFCf2OGx8bmGedHbpnw2uCJsrb7-o"
-  },
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4622317,
+          -34.5571626
+        ]
+      },
+      "properties": {
+        "Nombre": "Abinadab_Uñas",
+        "Rubro": "Manicura",
+        "Foto": "https://drive.google.com/uc?id=1U0qJoOleYQ6qy9_6Zo0pQXk3mKqcZXHG",
+        "URL Store": "https://agenddo.com/abinadab-uñas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4358278,
+          -34.6006292
+        ]
+      },
+      "properties": {
+        "Nombre": "Academia Bayres Estética",
+        "Rubro": "Centro Estética",
+        "Foto": "https://drive.google.com/uc?id=1XrfahqR3b8AwWW9Qz0_JkApCf8C8ykWh",
+        "URL Store": "https://agenddo.com/academia-bayres-estetica"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4393878,
+          -34.5996988
+        ]
+      },
+      "properties": {
+        "Nombre": "Ambar Momento Femenino",
+        "Rubro": [
+          "Manicura",
+          "Depilación"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1JA4tFCf2OGx8bmGedHbpnw2uCJsrb7-o",
+        "URL Store": "https://agenddo.com/ambar-momento-femenino"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4617731,
+          -34.576046
+        ]
+      },
+      "properties": {
+        "Nombre": "Ambar Spa - Belgrano",
+        "Rubro": [
+          "Manicura",
+          "Depilación",
+          "Tratamientos",
+          "EyeBeauty"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1x_ErTC1bQolBiEa21TkEQKcH8CqO6axa",
+        "URL Store": "https://agenddo.com/ambar-spa-belgrano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4366211,
+          -34.5862006
+        ]
+      },
+      "properties": {
+        "Nombre": "Ambar Spa - Palermo",
+        "Rubro": [
+          "Manicura",
+          "Depilación",
+          "Tratamientos",
+          "EyeBeauty"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1x_ErTC1bQolBiEa21TkEQKcH8CqO6axa",
+        "URL Store": "https://agenddo.com/ambar-spa-palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4468662,
+          -34.5708852
+        ]
+      },
+      "properties": {
+        "Nombre": "Andrea Beauty Studio Spa de uñas, cejas y pestañas",
+        "Rubro": [
+          "Manicura",
+          "EyeBeauty"
+        ],
+        "Foto": "https://drive.google.com/uc?id=178BGohFPSKEzfttEadt2aIZQwgCqZvBG",
+        "URL Store": "https://agenddo.com/andrea-beauty-studio-spa-de-uñas-cejas-y-pestañas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4500642,
+          -34.5677757
+        ]
+      },
+      "properties": {
+        "Nombre": "Balboa",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1MBSIjWyNarmXVYKRwUo9IN024saKx2sw",
+        "URL Store": "https://agenddo.com/balboa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4465178,
+          -34.5586595
+        ]
+      },
+      "properties": {
+        "Nombre": "Bodylife by Pampita",
+        "Rubro": "Medicina estética",
+        "Foto": "https://drive.google.com/uc?id=1JKdZU3lRa1nnwwDbLILpoxO2MxWRpkEC",
+        "URL Store": "https://agenddo.com/bodylife-by-pampita"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4607027,
+          -34.557933
+        ]
+      },
+      "properties": {
+        "Nombre": "ByH Estetica",
+        "Rubro": [
+          "Manicura",
+          "Masajes",
+          "Tratamientos"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1K8S6pr5goa0zt4l12Bizq5EgNmv93XZD",
+        "URL Store": "https://agenddo.com/byh-estetica"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3815591,
+          -34.6036844
+        ]
+      },
+      "properties": {
+        "Nombre": "Cerini - Alcorta",
+        "Rubro": [
+          "Peluquería",
+          "Manicura",
+          "MakeUp",
+          "Depilación",
+          "EyeBeauty",
+          "Spa"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1fvh7kYvzsPfVODWWvVeYhg4WjSP34dF8",
+        "URL Store": "https://agenddo.com/cerini-alcorta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4104412,
+          -34.5880019
+        ]
+      },
+      "properties": {
+        "Nombre": "Cerini - Alto Palermo",
+        "Rubro": [
+          "Peluquería",
+          "Manicura",
+          "MakeUp",
+          "Depilación"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1fvh7kYvzsPfVODWWvVeYhg4WjSP34dF8",
+        "URL Store": "https://agenddo.com/cerini-alto-palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3878626,
+          -34.5969608
+        ]
+      },
+      "properties": {
+        "Nombre": "Cerini - Barrio Norte",
+        "Rubro": [
+          "Peluquería",
+          "Manicura",
+          "MakeUp",
+          "Depilación",
+          "Spa"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1fvh7kYvzsPfVODWWvVeYhg4WjSP34dF8",
+        "URL Store": "https://agenddo.com/cerini-barrio-norte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4535856,
+          -34.5628647
+        ]
+      },
+      "properties": {
+        "Nombre": "Cerini - Belgrano",
+        "Rubro": [
+          "Peluquería",
+          "Manicura",
+          "MakeUp",
+          "Depilación"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1fvh7kYvzsPfVODWWvVeYhg4WjSP34dF8",
+        "URL Store": "https://agenddo.com/cerini-belgrano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4878536,
+          -34.5464842
+        ]
+      },
+      "properties": {
+        "Nombre": "Cerini - Dot",
+        "Rubro": [
+          "Peluquería",
+          "Manicura",
+          "MakeUp",
+          "Depilación"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1fvh7kYvzsPfVODWWvVeYhg4WjSP34dF8",
+        "URL Store": "https://agenddo.com/cerini-dot"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4965717,
+          -34.4873188
+        ]
+      },
+      "properties": {
+        "Nombre": "Cerini - Martínez",
+        "Rubro": [
+          "Peluquería",
+          "Manicura",
+          "MakeUp",
+          "Depilación"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1fvh7kYvzsPfVODWWvVeYhg4WjSP34dF8",
+        "URL Store": "https://agenddo.com/cerini-Martínez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3840901,
+          -34.5891244
+        ]
+      },
+      "properties": {
+        "Nombre": "Cerini - Patio Bullrich",
+        "Rubro": [
+          "Peluquería",
+          "Manicura",
+          "MakeUp",
+          "Depilación"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1fvh7kYvzsPfVODWWvVeYhg4WjSP34dF8",
+        "URL Store": "https://agenddo.com/cerini-patio-bullrich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4302694,
+          -34.6014319
+        ]
+      },
+      "properties": {
+        "Nombre": "Cheek To Cheek",
+        "Rubro": [
+          "Peluquería",
+          "Spa"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1iH87ixh900Ew2DDbJaLztLETOilqQ33Q",
+        "URL Store": "https://agenddo.com/cheek-to-cheek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4102608,
+          -34.5925829
+        ]
+      },
+      "properties": {
+        "Nombre": "Coco Buenos Aires - Barrio Norte",
+        "Rubro": [
+          "Manicura",
+          "EyeBeauty",
+          "Bronceado",
+          "Pedicura"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1JKdZU3lRa1nnwwDbLILpoxO2MxWRpkEC",
+        "URL Store": "https://agenddo.com/coco-buenos-aires-barrio-norte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4597567,
+          -34.5623167
+        ]
+      },
+      "properties": {
+        "Nombre": "Coco Buenos Aires - Belgrano",
+        "Rubro": [
+          "Manicura",
+          "EyeBeauty",
+          "Pedicura"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1JKdZU3lRa1nnwwDbLILpoxO2MxWRpkEC",
+        "URL Store": "https://agenddo.com/coco-buenos-aires-belgrano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.441701,
+          -34.623173
+        ]
+      },
+      "properties": {
+        "Nombre": "Coco Buenos Aires - Caballito",
+        "Rubro": [
+          "Manicura",
+          "EyeBeauty",
+          "Pedicura"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1JKdZU3lRa1nnwwDbLILpoxO2MxWRpkEC",
+        "URL Store": "https://agenddo.com/coco-buenos-aires-caballito"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4363825,
+          -34.5675936
+        ]
+      },
+      "properties": {
+        "Nombre": "Coco Buenos Aires - Cañitas",
+        "Rubro": [
+          "Manicura",
+          "EyeBeauty",
+          "Pedicura"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1JKdZU3lRa1nnwwDbLILpoxO2MxWRpkEC",
+        "URL Store": "https://agenddo.com/coco-buenos-aires-cañitas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.409288,
+          -34.5812699
+        ]
+      },
+      "properties": {
+        "Nombre": "Coco Buenos Aires - Palermo",
+        "Rubro": [
+          "Manicura",
+          "EyeBeauty"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1JKdZU3lRa1nnwwDbLILpoxO2MxWRpkEC",
+        "URL Store": "https://agenddo.com/coco-buenos-aires-palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.618922,
+          -34.4074064
+        ]
+      },
+      "properties": {
+        "Nombre": "Coco Buenos Aires (Peluquería Vanity Projects) - Nordelta",
+        "Rubro": "[\"Peluquería\" , \"Manicura\" , \"EyeBeauty\" , Pedicura]",
+        "Foto": "https://drive.google.com/uc?id=1elvhdr-oaT5agSs6JD56b3_l_Im6GwtX",
+        "URL Store": "https://agenddo.com/coco-buenos-aires-(peluqueria-vanity-projects)-nordelta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4365757,
+          -34.5794901
+        ]
+      },
+      "properties": {
+        "Nombre": "Cristian Rey",
+        "Rubro": "Peluquería",
+        "Foto": "https://drive.google.com/uc?id=11D30QDCRZQZskwBRhXlCFBlisCpKAbwV",
+        "URL Store": "https://agenddo.com/cristian-rey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3929064,
+          -34.7428121
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Banfield",
+        "Rubro": [
+          "Manicura",
+          "EyeBeauty",
+          "Tratamientos"
+        ],
+        "Foto": "https://drive.google.com/uc?id=11D30QDCRZQZskwBRhXlCFBlisCpKAbwV",
+        "URL Store": "https://agenddo.com/d-uñas-banfield"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4436416,
+          -34.6234374
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Caballito",
+        "Rubro": [
+          "Manicura",
+          "EyeBeauty",
+          "Depilación"
+        ],
+        "Foto": "https://drive.google.com/uc?id=11D30QDCRZQZskwBRhXlCFBlisCpKAbwV",
+        "URL Store": "https://agenddo.com/d-uñas-caballito"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.6452437,
+          -34.6554584
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Castelar",
+        "Rubro": [
+          "Manicura",
+          "Centro de Estética"
+        ],
+        "Foto": "https://drive.google.com/uc?id=11D30QDCRZQZskwBRhXlCFBlisCpKAbwV",
+        "URL Store": "https://agenddo.com/d-uñas-castelar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.9165089,
+          -34.4520117
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Champagnat",
+        "Rubro": [
+          "Manicura",
+          "EyeBeauty"
+        ],
+        "Foto": "https://drive.google.com/uc?id=11D30QDCRZQZskwBRhXlCFBlisCpKAbwV",
+        "URL Store": "https://agenddo.com/d-uñas-champagnat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4555072,
+          -34.5654085
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Ciudad de La Paz",
+        "Rubro": [
+          "Manicura",
+          "EyeBeauty",
+          "Depilación",
+          "Tratamientos"
+        ],
+        "Foto": "https://drive.google.com/uc?id=11D30QDCRZQZskwBRhXlCFBlisCpKAbwV",
+        "URL Store": "https://agenddo.com/d-uñas-ciudad-de-la-paz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4654439,
+          -34.6302014
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Flores",
+        "Rubro": [
+          "Manicura",
+          "EyeBeauty"
+        ],
+        "Foto": "https://drive.google.com/uc?id=11D30QDCRZQZskwBRhXlCFBlisCpKAbwV",
+        "URL Store": "https://agenddo.com/d-uñas-flores"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4668095,
+          -34.5636735
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Freire",
+        "Rubro": [
+          "Manicura",
+          "Depilación"
+        ],
+        "Foto": "https://drive.google.com/uc?id=11D30QDCRZQZskwBRhXlCFBlisCpKAbwV",
+        "URL Store": "https://agenddo.com/d-uñas-freire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4157334,
+          -34.5876024
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Julián Alvarez",
+        "Rubro": [
+          "Manicura",
+          "EyeBeauty",
+          "Depilación",
+          "Tratamientos"
+        ],
+        "Foto": "https://drive.google.com/uc?id=11D30QDCRZQZskwBRhXlCFBlisCpKAbwV",
+        "URL Store": "https://agenddo.com/d-uñas-julian-alvarez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4522668,
+          -34.5595947
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Juramento",
+        "Rubro": [
+          "Manicura",
+          "EyeBeauty"
+        ],
+        "Foto": "https://drive.google.com/uc?id=11D30QDCRZQZskwBRhXlCFBlisCpKAbwV",
+        "URL Store": "https://agenddo.com/d-uñas-juramento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4346495,
+          -34.5655187
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Las Cañitas",
+        "Rubro": [
+          "Manicura",
+          "EyeBeauty",
+          "Depilación",
+          "Tratamientos"
+        ],
+        "Foto": "https://drive.google.com/uc?id=11D30QDCRZQZskwBRhXlCFBlisCpKAbwV",
+        "URL Store": "https://agenddo.com/d-uñas-las-cañitas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4896996,
+          -34.4830422
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Martínez",
+        "Rubro": [
+          "Manicura",
+          "EyeBeauty"
+        ],
+        "Foto": "https://drive.google.com/uc?id=11D30QDCRZQZskwBRhXlCFBlisCpKAbwV",
+        "URL Store": "https://agenddo.com/d-uñas-Martínez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.65221363,
+          -34.400691
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Nordelta",
+        "Rubro": [
+          "Manicura",
+          "EyeBeauty",
+          "Depilación"
+        ],
+        "Foto": "https://drive.google.com/uc?id=11D30QDCRZQZskwBRhXlCFBlisCpKAbwV",
+        "URL Store": "https://agenddo.com/d-uñas-nordelta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4926897,
+          -34.5066853
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Olivos",
+        "Rubro": [
+          "Manicura",
+          "EyeBeauty",
+          "Tratamientos"
+        ],
+        "Foto": "https://drive.google.com/uc?id=11D30QDCRZQZskwBRhXlCFBlisCpKAbwV",
+        "URL Store": "https://agenddo.com/d-uñas-olivos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.6922995,
+          -34.6271305
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Parque Leloir",
+        "Rubro": [
+          "Manicura",
+          "EyeBeauty",
+          "Tratamientos"
+        ],
+        "Foto": "https://drive.google.com/uc?id=11D30QDCRZQZskwBRhXlCFBlisCpKAbwV",
+        "URL Store": "https://agenddo.com/d-uñas-parque-leloir"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.6120808,
+          -34.4270376
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Remeros",
+        "Rubro": [
+          "Manicura",
+          "EyeBeauty"
+        ],
+        "Foto": "https://drive.google.com/uc?id=11D30QDCRZQZskwBRhXlCFBlisCpKAbwV",
+        "URL Store": "https://agenddo.com/d-uñas-remeros"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4959461,
+          -34.6053725
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Villa del Parque",
+        "Rubro": [
+          "Manicura",
+          "EyeBeauty"
+        ],
+        "Foto": "https://drive.google.com/uc?id=11D30QDCRZQZskwBRhXlCFBlisCpKAbwV",
+        "URL Store": "https://agenddo.com/d-uñas-villa-del-parque"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.71402809,
+          -34.39114864
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Villa Nueva",
+        "Rubro": [
+          "Manicura",
+          "EyeBeauty",
+          "Depilación",
+          "Tratamientos"
+        ],
+        "Foto": "https://drive.google.com/uc?id=11D30QDCRZQZskwBRhXlCFBlisCpKAbwV",
+        "URL Store": "https://agenddo.com/d-uñas-villa-nueva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4833899,
+          -34.5771419
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Villa Urquiza",
+        "Rubro": [
+          "Manicura",
+          "EyeBeauty"
+        ],
+        "Foto": "https://drive.google.com/uc?id=11D30QDCRZQZskwBRhXlCFBlisCpKAbwV",
+        "URL Store": "https://agenddo.com/d-uñas-villa-urquiza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4441116,
+          -34.5706309
+        ]
+      },
+      "properties": {
+        "Nombre": "Dèpilier",
+        "Rubro": [
+          "Medicina estética",
+          "Depilación"
+        ],
+        "Foto": "https://drive.google.com/uc?id=17qPCrQinrxNik4SJ7fuixqyOAN3V2tIt",
+        "URL Store": "https://agenddo.com/depilier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4168822,
+          -34.6186414
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Almagro",
+        "Rubro": "Depilación",
+        "Foto": "https://drive.google.com/uc?id=1oj5seOaHyT3YB0SVjiVs4HcgtUFrui5U",
+        "URL Store": "https://agenddo.com/depilife-almagro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4527351,
+          -34.5629223
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Belgrano",
+        "Rubro": "Depilación",
+        "Foto": "https://drive.google.com/uc?id=1oj5seOaHyT3YB0SVjiVs4HcgtUFrui5U",
+        "URL Store": "https://agenddo.com/depilife-belgrano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4089349,
+          -34.5808696
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Botánico",
+        "Rubro": "Depilación",
+        "Foto": "https://drive.google.com/uc?id=1oj5seOaHyT3YB0SVjiVs4HcgtUFrui5U",
+        "URL Store": "https://agenddo.com/depilife-botánico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4299801,
+          -34.6159962
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Caballito",
+        "Rubro": "Depilación",
+        "Foto": "https://drive.google.com/uc?id=1oj5seOaHyT3YB0SVjiVs4HcgtUFrui5U",
+        "URL Store": "https://agenddo.com/depilife-caballito"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.439115,
+          -34.5649362
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Cañitas",
+        "Rubro": "Depilación",
+        "Foto": "https://drive.google.com/uc?id=1oj5seOaHyT3YB0SVjiVs4HcgtUFrui5U",
+        "URL Store": "https://agenddo.com/depilife-cañitas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.6418523,
+          -34.6482143
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Castelar",
+        "Rubro": "Depilación",
+        "Foto": "https://drive.google.com/uc?id=1oj5seOaHyT3YB0SVjiVs4HcgtUFrui5U",
+        "URL Store": "https://agenddo.com/depilife-castelar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3826987,
+          -34.6029635
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Centro",
+        "Rubro": "Depilación",
+        "Foto": "https://drive.google.com/uc?id=1oj5seOaHyT3YB0SVjiVs4HcgtUFrui5U",
+        "URL Store": "https://agenddo.com/depilife-centro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3971121,
+          -34.5989369
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Facultades",
+        "Rubro": "Depilación",
+        "Foto": "https://drive.google.com/uc?id=1oj5seOaHyT3YB0SVjiVs4HcgtUFrui5U",
+        "URL Store": "https://agenddo.com/depilife-facultades"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.45932,
+          -34.6272212
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Flores",
+        "Rubro": "Depilación",
+        "Foto": "https://drive.google.com/uc?id=1oj5seOaHyT3YB0SVjiVs4HcgtUFrui5U",
+        "URL Store": "https://agenddo.com/depilife-flores"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4017774,
+          -34.7638421
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Lomas de Zamora",
+        "Rubro": "Depilación",
+        "Foto": "https://drive.google.com/uc?id=1oj5seOaHyT3YB0SVjiVs4HcgtUFrui5U",
+        "URL Store": "https://agenddo.com/depilife-lomas-de-zamora"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4489091,
+          -34.5555736
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Nuñez",
+        "Rubro": "Depilación",
+        "Foto": "https://drive.google.com/uc?id=1oj5seOaHyT3YB0SVjiVs4HcgtUFrui5U",
+        "URL Store": "https://agenddo.com/depilife-nunez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.492758,
+          -34.514581
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Olivos",
+        "Rubro": "Depilación",
+        "Foto": "https://drive.google.com/uc?id=1oj5seOaHyT3YB0SVjiVs4HcgtUFrui5U",
+        "URL Store": "https://agenddo.com/depilife-olivos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.412382,
+          -34.591933
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Palermo",
+        "Rubro": "Depilación",
+        "Foto": "https://drive.google.com/uc?id=1oj5seOaHyT3YB0SVjiVs4HcgtUFrui5U",
+        "URL Store": "https://agenddo.com/depilife-palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.8423025,
+          -34.4418414
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Pilar",
+        "Rubro": "Depilación",
+        "Foto": "https://drive.google.com/uc?id=1oj5seOaHyT3YB0SVjiVs4HcgtUFrui5U",
+        "URL Store": "https://agenddo.com/depilife-pilar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.2549569,
+          -34.7216478
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Quilmes",
+        "Rubro": "Depilación",
+        "Foto": "https://drive.google.com/uc?id=1oj5seOaHyT3YB0SVjiVs4HcgtUFrui5U",
+        "URL Store": "https://agenddo.com/depilife-quilmes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5639828,
+          -34.6489356
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Ramos",
+        "Rubro": "Depilación",
+        "Foto": "https://drive.google.com/uc?id=1oj5seOaHyT3YB0SVjiVs4HcgtUFrui5U",
+        "URL Store": "https://agenddo.com/depilife-ramos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3964729,
+          -34.5872879
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Recoleta",
+        "Rubro": "Depilación",
+        "Foto": "https://drive.google.com/uc?id=1oj5seOaHyT3YB0SVjiVs4HcgtUFrui5U",
+        "URL Store": "https://agenddo.com/depilife-recoleta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5109935,
+          -34.4694256
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - San Isidro",
+        "Rubro": "Depilación",
+        "Foto": "https://drive.google.com/uc?id=1oj5seOaHyT3YB0SVjiVs4HcgtUFrui5U",
+        "URL Store": "https://agenddo.com/depilife-san-isidro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4269888,
+          -34.5905637
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Soho",
+        "Rubro": "Depilación",
+        "Foto": "https://drive.google.com/uc?id=1oj5seOaHyT3YB0SVjiVs4HcgtUFrui5U",
+        "URL Store": "https://agenddo.com/depilife-soho"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4402192,
+          -34.6002497
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Villa Crespo",
+        "Rubro": "Depilación",
+        "Foto": "https://drive.google.com/uc?id=1oj5seOaHyT3YB0SVjiVs4HcgtUFrui5U",
+        "URL Store": "https://agenddo.com/depilife-villa-crespo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4972137,
+          -34.5986469
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Villa del Parque",
+        "Rubro": "Depilación",
+        "Foto": "https://drive.google.com/uc?id=1oj5seOaHyT3YB0SVjiVs4HcgtUFrui5U",
+        "URL Store": "https://agenddo.com/depilife-villa-del-parque"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4835657,
+          -34.5752873
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Villa Urquiza",
+        "Rubro": "Depilación",
+        "Foto": "https://drive.google.com/uc?id=1oj5seOaHyT3YB0SVjiVs4HcgtUFrui5U",
+        "URL Store": "https://agenddo.com/depilife-villa-urquiza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4565994,
+          -34.5631856
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Belgrano",
+        "Rubro": "Medicina estética",
+        "Foto": "https://drive.google.com/uc?id=1AIuNmg5n6aAImuiyETkDkNSmK8URyU15",
+        "URL Store": "https://agenddo.com/dr-beauty-belgrano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4323395,
+          -34.625937
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Caballito",
+        "Rubro": "Medicina estética",
+        "Foto": "https://drive.google.com/uc?id=1AIuNmg5n6aAImuiyETkDkNSmK8URyU15",
+        "URL Store": "https://agenddo.com/dr-beauty-caballito"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5032134,
+          -34.8602544
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Canning",
+        "Rubro": "Medicina estética",
+        "Foto": "https://drive.google.com/uc?id=1AIuNmg5n6aAImuiyETkDkNSmK8URyU15",
+        "URL Store": "https://agenddo.com/dr-beauty-canning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4924218,
+          -34.5921064
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Devoto",
+        "Rubro": "Medicina estética",
+        "Foto": "https://drive.google.com/uc?id=1AIuNmg5n6aAImuiyETkDkNSmK8URyU15",
+        "URL Store": "https://agenddo.com/dr-beauty-devoto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4032033,
+          -34.7655363
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Lomas de Zamora",
+        "Rubro": "Medicina estética",
+        "Foto": "https://drive.google.com/uc?id=1AIuNmg5n6aAImuiyETkDkNSmK8URyU15",
+        "URL Store": "https://agenddo.com/dr-beauty-lomas-de-zamora"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.6520858,
+          -34.4014784
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Nordelta",
+        "Rubro": "Medicina estética",
+        "Foto": "https://drive.google.com/uc?id=1AIuNmg5n6aAImuiyETkDkNSmK8URyU15",
+        "URL Store": "https://agenddo.com/dr-beauty-nordelta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4594429,
+          -34.5453841
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Nuñez",
+        "Rubro": "Medicina estética",
+        "Foto": "https://drive.google.com/uc?id=1AIuNmg5n6aAImuiyETkDkNSmK8URyU15",
+        "URL Store": "https://agenddo.com/dr-beauty-nuñez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4807985,
+          -34.5036863
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Olivos",
+        "Rubro": "Medicina estética",
+        "Foto": "https://drive.google.com/uc?id=1AIuNmg5n6aAImuiyETkDkNSmK8URyU15",
+        "URL Store": "https://agenddo.com/dr-beauty-olivos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.6949654,
+          -34.6245091
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Parque Leloir",
+        "Rubro": "Medicina estética",
+        "Foto": "https://drive.google.com/uc?id=1AIuNmg5n6aAImuiyETkDkNSmK8URyU15",
+        "URL Store": "https://agenddo.com/dr-beauty-parque-leloir"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.8975715,
+          -34.4470938
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Pilar",
+        "Rubro": "Medicina estética",
+        "Foto": "https://drive.google.com/uc?id=1AIuNmg5n6aAImuiyETkDkNSmK8URyU15",
+        "URL Store": "https://agenddo.com/dr-beauty-pilar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.363012,
+          -34.609528
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Puerto Madero",
+        "Rubro": "Medicina estética",
+        "Foto": "https://drive.google.com/uc?id=1AIuNmg5n6aAImuiyETkDkNSmK8URyU15",
+        "URL Store": "https://agenddo.com/dr-beauty-puerto-madero"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5642898,
+          -34.6464406
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Ramos Mejía",
+        "Rubro": "Medicina estética",
+        "Foto": "https://drive.google.com/uc?id=1AIuNmg5n6aAImuiyETkDkNSmK8URyU15",
+        "URL Store": "https://agenddo.com/dr-beauty-ramos-mejia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3899324,
+          -34.5885257
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Recoleta",
+        "Rubro": "Medicina estética",
+        "Foto": "https://drive.google.com/uc?id=1AIuNmg5n6aAImuiyETkDkNSmK8URyU15",
+        "URL Store": "https://agenddo.com/dr-beauty-recoleta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5458373,
+          -34.494542
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - San Isidro",
+        "Rubro": "Medicina estética",
+        "Foto": "https://drive.google.com/uc?id=1AIuNmg5n6aAImuiyETkDkNSmK8URyU15",
+        "URL Store": "https://agenddo.com/dr-beauty-san-isidro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3895125,
+          -34.600098
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Tribunales",
+        "Rubro": "Medicina estética",
+        "Foto": "https://drive.google.com/uc?id=1AIuNmg5n6aAImuiyETkDkNSmK8URyU15",
+        "URL Store": "https://agenddo.com/dr-beauty-tribunales"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4367726,
+          -34.6006757
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Villa Crespo",
+        "Rubro": "Medicina estética",
+        "Foto": "https://drive.google.com/uc?id=1AIuNmg5n6aAImuiyETkDkNSmK8URyU15",
+        "URL Store": "https://agenddo.com/dr-beauty-villa-crespo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4801025,
+          -34.5663876
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Villa Urquiza",
+        "Rubro": "Medicina estética",
+        "Foto": "https://drive.google.com/uc?id=1AIuNmg5n6aAImuiyETkDkNSmK8URyU15",
+        "URL Store": "https://agenddo.com/dr-beauty-villa-urquiza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4257849,
+          -34.5802867
+        ]
+      },
+      "properties": {
+        "Nombre": "Estética BE",
+        "Rubro": "Medicina estética",
+        "Foto": "https://drive.google.com/uc?id=1JKdZU3lRa1nnwwDbLILpoxO2MxWRpkEC",
+        "URL Store": "https://agenddo.com/estetica-be"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4330084,
+          -34.6160456
+        ]
+      },
+      "properties": {
+        "Nombre": "Estética Bella Vita - Caballito",
+        "Rubro": "Medicina estética",
+        "Foto": "https://drive.google.com/uc?id=1yXpsshWyMaMH3s0gqBZEjs_v5vdB6xfY",
+        "URL Store": "https://agenddo.com/estetica-bella-vita-caballito"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4842788,
+          -34.5786926
+        ]
+      },
+      "properties": {
+        "Nombre": "Estética Bella Vita - Villa Urquiza",
+        "Rubro": "Medicina estética",
+        "Foto": "https://drive.google.com/uc?id=1yXpsshWyMaMH3s0gqBZEjs_v5vdB6xfY",
+        "URL Store": "https://agenddo.com/estetica-bella-vita-villa-urquiza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4623595,
+          -34.5569114
+        ]
+      },
+      "properties": {
+        "Nombre": "Estética Bella Vita Belgrano",
+        "Rubro": "Medicina estética",
+        "Foto": "https://drive.google.com/uc?id=1yXpsshWyMaMH3s0gqBZEjs_v5vdB6xfY",
+        "URL Store": "https://agenddo.com/estetica-bella-vita-belgrano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4210487,
+          -34.5836834
+        ]
+      },
+      "properties": {
+        "Nombre": "Estética Bella Vita Palermo",
+        "Rubro": "Medicina estética",
+        "Foto": "https://drive.google.com/uc?id=1yXpsshWyMaMH3s0gqBZEjs_v5vdB6xfY",
+        "URL Store": "https://agenddo.com/estetica-bella-vita-palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4314923,
+          -34.6200485
+        ]
+      },
+      "properties": {
+        "Nombre": "Estética Martínez - Caballito",
+        "Rubro": [
+          "Medicina estética",
+          "Dermatología",
+          "Cirugía"
+        ],
+        "Foto": "https://drive.google.com/uc?id=16Z3uUG5rQmsFwMZ8jKPdU3XXTkYe6fcr",
+        "URL Store": "https://agenddo.com/estetica-Martínez-caballito"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4332759,
+          -34.5772964
+        ]
+      },
+      "properties": {
+        "Nombre": "Estetica viso",
+        "Rubro": [
+          "Cosmiatra",
+          "Centro de Estética",
+          "Masajes"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1Teli_3DjYgcKdmhiJLdT_Im1EyhWypO0",
+        "URL Store": "https://agenddo.com/estetica-viso"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4466365,
+          -34.6042849
+        ]
+      },
+      "properties": {
+        "Nombre": "Estética y Masajes Bambú",
+        "Rubro": [
+          "Tratamientos",
+          "Masajes"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1cH0Uo0AlbXLjejweSoJkiyUjVpMRi9UG",
+        "URL Store": "https://agenddo.com/estetica-y-masajes-bambu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4292811,
+          -34.576802
+        ]
+      },
+      "properties": {
+        "Nombre": "Estudio Laurette",
+        "Rubro": [
+          "Manicura",
+          "EyeBeauty"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1HMQmSPMthChTSbzDXC9oN4fkPeMLSphy",
+        "URL Store": "https://agenddo.com/estudio-laurette"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4085837,
+          -34.5825088
+        ]
+      },
+      "properties": {
+        "Nombre": "Frida Estética Femenina",
+        "Rubro": [
+          "Manicura",
+          "EyeBeauty",
+          "Depilación"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1aItAv9eGlRavmIqeV3XNDqxIFWJO1awq",
+        "URL Store": "https://agenddo.com/frida-estetica-femenina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4402579,
+          -34.6227128
+        ]
+      },
+      "properties": {
+        "Nombre": "Gallito & Cia - Peluqueria Infantil - Caballito",
+        "Rubro": "Peluquería Infantil",
+        "Foto": "https://drive.google.com/uc?id=1FHN-9Iw1faFKJvDiqLnxtlJm_3P6iCbP",
+        "URL Store": "https://agenddo.com/gallito-&-cia-peluqueria-infantil-caballito"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4346407,
+          -34.5806306
+        ]
+      },
+      "properties": {
+        "Nombre": "Gallito & Cia - Peluqueria Infantil - Palermo",
+        "Rubro": "Peluquería Infantil",
+        "Foto": "https://drive.google.com/uc?id=1FHN-9Iw1faFKJvDiqLnxtlJm_3P6iCbP",
+        "URL Store": "https://agenddo.com/gallito-&-cia-peluqueria-infantil-palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.461854,
+          -34.5557897
+        ]
+      },
+      "properties": {
+        "Nombre": "GEA ESTETICA Y SALUD",
+        "Rubro": "Centro de Estética",
+        "Foto": "https://drive.google.com/uc?id=1dmYMNC6Tq4iGZDH2aE33Az7yzyU-EKLc",
+        "URL Store": "https://agenddo.com/gea-estetica-y-salud"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4296772,
+          -34.5999381
+        ]
+      },
+      "properties": {
+        "Nombre": "Gella Nails",
+        "Rubro": "Manicura",
+        "Foto": "https://drive.google.com/uc?id=1fox6jGJ6pbxXw3uY7urREyzdUKn4jzKg",
+        "URL Store": "https://agenddo.com/gella-nails"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4409205,
+          -34.5976338
+        ]
+      },
+      "properties": {
+        "Nombre": "Gloria Rueda Estética",
+        "Rubro": [
+          "Tratamientos",
+          "Depilación"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1FSg_M4fFGcJxlATrbMJgWVGB_uQ_aUn5",
+        "URL Store": "https://agenddo.com/gloria-rueda-estetica"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.44089,
+          -34.5639456
+        ]
+      },
+      "properties": {
+        "Nombre": "Glow Peluqueria - Cañitas",
+        "Rubro": "Peluquería",
+        "Foto": "https://drive.google.com/uc?id=1UMC6KWs7tn2A1AKrdNbSqn5CCt4FTUq7",
+        "URL Store": "https://agenddo.com/glow-peluqueria-cañitas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4809124,
+          -34.5771072
+        ]
+      },
+      "properties": {
+        "Nombre": "Glow Peluqueria - Juramento",
+        "Rubro": "Peluquería",
+        "Foto": "https://drive.google.com/uc?id=1UMC6KWs7tn2A1AKrdNbSqn5CCt4FTUq7",
+        "URL Store": "https://agenddo.com/glow-peluqueria-juramento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.8659776,
+          -34.4570929
+        ]
+      },
+      "properties": {
+        "Nombre": "Go Nails - Lonja",
+        "Rubro": "Manicura",
+        "Foto": "https://drive.google.com/uc?id=16njtUFHBGb7JpBe-ae0HZzpLOSrhO1hW",
+        "URL Store": "https://agenddo.com/go-nails-lonja"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5249248,
+          -34.505927
+        ]
+      },
+      "properties": {
+        "Nombre": "Go Nails - Martínez",
+        "Rubro": "Manicura",
+        "Foto": "https://drive.google.com/uc?id=16njtUFHBGb7JpBe-ae0HZzpLOSrhO1hW",
+        "URL Store": "https://agenddo.com/go-nails-Martínez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.7296288,
+          -34.4537287
+        ]
+      },
+      "properties": {
+        "Nombre": "Go Nails - Pilar",
+        "Rubro": "Manicura",
+        "Foto": "https://drive.google.com/uc?id=16njtUFHBGb7JpBe-ae0HZzpLOSrhO1hW",
+        "URL Store": "https://agenddo.com/go-nails-pilar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4186065,
+          -34.5912322
+        ]
+      },
+      "properties": {
+        "Nombre": "Grismi Peluquería",
+        "Rubro": [
+          "Peluquería",
+          "Manicura",
+          "Reflexología",
+          "MakeUp"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1fHmnLPq4lU5SYMfMt5EqbsmYeKdPwVNt",
+        "URL Store": "https://agenddo.com/grismi-peluqueria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4191127,
+          -34.5873681
+        ]
+      },
+      "properties": {
+        "Nombre": "Hair Experience Peluquería",
+        "Rubro": [
+          "Peluquería",
+          "EyeBeauty",
+          "Manicura"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1A60IiqWb8CDgiXX_c5ug3lEndg__k355",
+        "URL Store": "https://agenddo.com/hair-experience-peluqueria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3815591,
+          -34.6036844
+        ]
+      },
+      "properties": {
+        "Nombre": "Hawai Solarium",
+        "Rubro": "Bronceado",
+        "Foto": "https://drive.google.com/uc?id=1E3mma5yDic6cRowBySoV7j3In8l2_PDQ",
+        "URL Store": "https://agenddo.com/hawai-solarium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4024806,
+          -34.5923115
+        ]
+      },
+      "properties": {
+        "Nombre": "ÍOBELLA - Barrio Norte",
+        "Rubro": [
+          "Medicina estética",
+          "Depilación",
+          "Masajes"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1zsKn9avoOXF71eDbSdw8qT02znTfViLe",
+        "URL Store": "https://agenddo.com/iobella-barrio-norte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4525725,
+          -34.5637565
+        ]
+      },
+      "properties": {
+        "Nombre": "ÍOBELLA - Belgrano",
+        "Rubro": [
+          "Medicina estética",
+          "Depilación",
+          "Masajes"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1zsKn9avoOXF71eDbSdw8qT02znTfViLe",
+        "URL Store": "https://agenddo.com/iobella-belgrano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4165459,
+          -34.5882928
+        ]
+      },
+      "properties": {
+        "Nombre": "ÍOBELLA - Palermo",
+        "Rubro": [
+          "Medicina estética",
+          "Depilación",
+          "Masajes"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1zsKn9avoOXF71eDbSdw8qT02znTfViLe",
+        "URL Store": "https://agenddo.com/iobella-palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.387007,
+          -34.596523
+        ]
+      },
+      "properties": {
+        "Nombre": "ÍOBELLA - Recoleta",
+        "Rubro": [
+          "Medicina estética",
+          "Depilación",
+          "Masajes"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1zsKn9avoOXF71eDbSdw8qT02znTfViLe",
+        "URL Store": "https://agenddo.com/iobella-recoleta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4158311,
+          -34.5864724
+        ]
+      },
+      "properties": {
+        "Nombre": "Jessicaleo Peluquerías",
+        "Rubro": "Peluquería",
+        "Foto": "https://drive.google.com/uc?id=1hKVcgnNViOwJrzJOLiyV3AK15u9CPmV6",
+        "URL Store": "https://agenddo.com/jessicaleo-peluquerias"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4338254,
+          -34.5883425
+        ]
+      },
+      "properties": {
+        "Nombre": "JOSHA peluquería",
+        "Rubro": "Peluquería",
+        "Foto": "https://drive.google.com/uc?id=1er0dwFPw6rB0mx9EoKgolpRqzcINSWcN",
+        "URL Store": "https://agenddo.com/josha-peluqueria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3815591,
+          -34.6036844
+        ]
+      },
+      "properties": {
+        "Nombre": "Juicy Make Up",
+        "Rubro": "MakeUp",
+        "Foto": "https://drive.google.com/uc?id=14CcmW9y-8xS6y7d7cN7Po8VMQmIB7oS2",
+        "URL Store": "https://agenddo.com/juicy-make-up"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4166893,
+          -34.5858915
+        ]
+      },
+      "properties": {
+        "Nombre": "Julieta Beauty Studio",
+        "Rubro": "[Tratamientos , \"Masajes\" , \"EyeBeauty\" , \"MakeUp\" , \"Peinado\"]",
+        "Foto": "https://drive.google.com/uc?id=1j9o-GWClewu0i_qEjkiNmbTAtgu31ee6",
+        "URL Store": "https://agenddo.com/julieta-beauty-studio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4369014,
+          -34.601283
+        ]
+      },
+      "properties": {
+        "Nombre": "Julio Pan",
+        "Rubro": "Peluquería",
+        "Foto": "https://drive.google.com/uc?id=1J9TPfHjzDDwuXss8uC5_MN2RmHBc17Og",
+        "URL Store": "https://agenddo.com/julio-pan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4320244,
+          -34.5912456
+        ]
+      },
+      "properties": {
+        "Nombre": "La Maison Belleza",
+        "Rubro": "Centro Estética",
+        "Foto": "https://drive.google.com/uc?id=1nIl9EWegOXiPTvXfaI1PawCIIhCktXC9",
+        "URL Store": "https://agenddo.com/la-maison-belleza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4550149,
+          -34.570593
+        ]
+      },
+      "properties": {
+        "Nombre": "Leo Usach Hair & Makeup Lab",
+        "Rubro": "Peluquería",
+        "Foto": "https://drive.google.com/uc?id=1aIJGNNszscfwowIO8aS0lupMGn2D6XQC",
+        "URL Store": "https://agenddo.com/leo-usach-hair-&-makeup-lab"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.437149,
+          -34.61736
+        ]
+      },
+      "properties": {
+        "Nombre": "LLONGUERAS ARGENTINA - Acoyte",
+        "Rubro": [
+          "Peluquería",
+          "Manicura",
+          "EyeBeauty"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1KHJbR8uvf51q5D4-IyBYpLaTEBe2NvCG",
+        "URL Store": "https://agenddo.com/llongueras-argentina-acoyte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.387876,
+          -34.595604
+        ]
+      },
+      "properties": {
+        "Nombre": "LLONGUERAS ARGENTINA - Av. Santa Fe",
+        "Rubro": [
+          "Peluquería",
+          "Manicura",
+          "EyeBeauty"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1KHJbR8uvf51q5D4-IyBYpLaTEBe2NvCG",
+        "URL Store": "https://agenddo.com/llongueras-argentina-av.-santa-fe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4601283,
+          -34.5761109
+        ]
+      },
+      "properties": {
+        "Nombre": "LLONGUERAS ARGENTINA - Elcano",
+        "Rubro": [
+          "Peluquería",
+          "Manicura",
+          "EyeBeauty"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1KHJbR8uvf51q5D4-IyBYpLaTEBe2NvCG",
+        "URL Store": "https://agenddo.com/llongueras-argentina-elcano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3936255,
+          -34.5935694
+        ]
+      },
+      "properties": {
+        "Nombre": "LLONGUERAS ARGENTINA - Juncal",
+        "Rubro": [
+          "Peluquería",
+          "Manicura",
+          "EyeBeauty"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1KHJbR8uvf51q5D4-IyBYpLaTEBe2NvCG",
+        "URL Store": "https://agenddo.com/llongueras-argentina-juncal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4435391,
+          -34.6266725
+        ]
+      },
+      "properties": {
+        "Nombre": "LLONGUERAS ARGENTINA - Pedro Goyena",
+        "Rubro": [
+          "Peluquería",
+          "Manicura",
+          "EyeBeauty"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1sOlxtbCNHu4f2PFv_iXGsNbMfAbeErvN",
+        "URL Store": "https://agenddo.com/llongueras-argentina-pedro-goyena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4303218,
+          -34.5713329
+        ]
+      },
+      "properties": {
+        "Nombre": "Loly Peluquería & Estética",
+        "Rubro": [
+          "Peluquería",
+          "Manicura",
+          "MakeUp"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1KmOJotrqQUa7Iy8VI9DVetOhSxEeAF63",
+        "URL Store": "https://agenddo.com/loly-peluqueria-&-estetica"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4322035,
+          -34.571427
+        ]
+      },
+      "properties": {
+        "Nombre": "Luxury Bronze",
+        "Rubro": "Bronceado",
+        "Foto": "https://drive.google.com/uc?id=1ILCVdx22VtppfCchHGV9yQwAHRrBjaR-",
+        "URL Store": "https://agenddo.com/luxury-bronze-cañitas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.398725,
+          -34.5955159
+        ]
+      },
+      "properties": {
+        "Nombre": "M Studio",
+        "Rubro": "Peluquería",
+        "Foto": "https://drive.google.com/uc?id=1Zbiv2nHLqLfrDwDwtS728jOErfG_feLu",
+        "URL Store": "https://agenddo.com/m-studio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4334946,
+          -34.5877428
+        ]
+      },
+      "properties": {
+        "Nombre": "Maidana Peluqueria",
+        "Rubro": "Peluquería",
+        "Foto": "https://drive.google.com/uc?id=1gZPW-fmqUDubBY1PM404SafMRX6y2Jc7",
+        "URL Store": "https://agenddo.com/maidana-peluqueria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4149952,
+          -34.5956906
+        ]
+      },
+      "properties": {
+        "Nombre": "MALA Peluquería",
+        "Rubro": [
+          "Peluquería",
+          "Manicura"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1PcWi5YS45CWQtXuOSF4j-9JbhNgfdwde",
+        "URL Store": "https://agenddo.com/mala-peluqueria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3815591,
+          -34.6036844
+        ]
+      },
+      "properties": {
+        "Nombre": "Marquesa Spa de Belleza",
+        "Rubro": [
+          "Manicura",
+          "Cosmiatra",
+          "Pedicura",
+          "Masajes"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1pqTe5ptTTpGoV0hfgYxyGc-yjXCMqQQb",
+        "URL Store": "https://agenddo.com/marquesa-spa-de-belleza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3815591,
+          -34.6036844
+        ]
+      },
+      "properties": {
+        "Nombre": "Mas Plena",
+        "Rubro": "Centro Estética",
+        "Foto": "https://drive.google.com/uc?id=107FkwlsSOk-Egc6EBbRy97iK7ABCvc2V",
+        "URL Store": "https://agenddo.com/mas-plena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.414421,
+          -34.589771
+        ]
+      },
+      "properties": {
+        "Nombre": "Matias Rivara Peluqueria",
+        "Rubro": "Peluquería",
+        "Foto": "https://drive.google.com/uc?id=1sOJEr0ZSiR_yGCeS6Lr3C3QfV_1IMzGg",
+        "URL Store": "https://agenddo.com/matias-rivara-peluqueria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4223924,
+          -34.5894989
+        ]
+      },
+      "properties": {
+        "Nombre": "Miguel Ramirez Peluqueria",
+        "Rubro": [
+          "Peluquería",
+          "Manicura",
+          "EyeBeauty"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1KaLNX7sCcaZYG3QhnC5FO0JMpYzn_aD6",
+        "URL Store": "https://agenddo.com/miguel-ramirez-peluqueria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4263642,
+          -34.5834347
+        ]
+      },
+      "properties": {
+        "Nombre": "Milena Marin Beauty Studio",
+        "Rubro": [
+          "EyeBeauty",
+          "Manicura",
+          "Peluquería"
+        ],
+        "Foto": "https://drive.google.com/uc?id=13qbzCmZ7d2HmUTIPCbqOTJzUsBkkrvox",
+        "URL Store": "https://agenddo.com/milena-marin-beauty-studio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4552986,
+          -34.6051684
+        ]
+      },
+      "properties": {
+        "Nombre": "MISI Centro de Estética",
+        "Rubro": "Centro Estética",
+        "Foto": "https://drive.google.com/uc?id=1QpBE_SCGZfnk3Lude1zHcjETg-C5QdWr",
+        "URL Store": "https://agenddo.com/misi-centro-de-estetica"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4341191,
+          -34.5996641
+        ]
+      },
+      "properties": {
+        "Nombre": "Nancy Bonito Estética Integral",
+        "Rubro": "Tratamientos Faciales y Corporales",
+        "Foto": "https://drive.google.com/uc?id=1Q3z5xfyWmAFw35gfr9VCEPDSi1IIGOiT",
+        "URL Store": "https://agenddo.com/nancy-bonito-estetica-integral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4572796,
+          -34.5597862
+        ]
+      },
+      "properties": {
+        "Nombre": "Natural Bronze - Belgrano",
+        "Rubro": "Bronceado",
+        "Foto": "https://drive.google.com/uc?id=1Q3z5xfyWmAFw35gfr9VCEPDSi1IIGOiT",
+        "URL Store": "https://agenddo.com/natural-bronze-belgrano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4419817,
+          -34.620575
+        ]
+      },
+      "properties": {
+        "Nombre": "Natural Bronze - Caballito",
+        "Rubro": "Bronceado",
+        "Foto": "https://drive.google.com/uc?id=1Q3z5xfyWmAFw35gfr9VCEPDSi1IIGOiT",
+        "URL Store": "https://agenddo.com/natural-bronze-caballito"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4925973,
+          -34.8691086
+        ]
+      },
+      "properties": {
+        "Nombre": "Natural Bronze - Canning",
+        "Rubro": "Bronceado",
+        "Foto": "https://drive.google.com/uc?id=1Q3z5xfyWmAFw35gfr9VCEPDSi1IIGOiT",
+        "URL Store": "https://agenddo.com/natural-bronze-canning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4020201,
+          -34.7650545
+        ]
+      },
+      "properties": {
+        "Nombre": "Natural Bronze - Las Lomitas",
+        "Rubro": "Bronceado",
+        "Foto": "https://drive.google.com/uc?id=1Q3z5xfyWmAFw35gfr9VCEPDSi1IIGOiT",
+        "URL Store": "https://agenddo.com/natural-bronze-las-lomitas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.6527664,
+          -34.4008443
+        ]
+      },
+      "properties": {
+        "Nombre": "Natural Bronze - Nordelta",
+        "Rubro": "Bronceado",
+        "Foto": "https://drive.google.com/uc?id=1Q3z5xfyWmAFw35gfr9VCEPDSi1IIGOiT",
+        "URL Store": "https://agenddo.com/natural-bronze-nordelta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4618177,
+          -34.5431323
+        ]
+      },
+      "properties": {
+        "Nombre": "Natural Bronze - Nuñez",
+        "Rubro": "Bronceado",
+        "Foto": "https://drive.google.com/uc?id=1Q3z5xfyWmAFw35gfr9VCEPDSi1IIGOiT",
+        "URL Store": "https://agenddo.com/natural-bronze-nuñez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4792702,
+          -34.5077523
+        ]
+      },
+      "properties": {
+        "Nombre": "Natural Bronze - Olivos",
+        "Rubro": "Bronceado",
+        "Foto": "https://drive.google.com/uc?id=1Q3z5xfyWmAFw35gfr9VCEPDSi1IIGOiT",
+        "URL Store": "https://agenddo.com/natural-bronze-olivos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4260078,
+          -34.5847907
+        ]
+      },
+      "properties": {
+        "Nombre": "Natural Bronze - Palermo",
+        "Rubro": "Bronceado",
+        "Foto": "https://drive.google.com/uc?id=1Q3z5xfyWmAFw35gfr9VCEPDSi1IIGOiT",
+        "URL Store": "https://agenddo.com/natural-bronze-palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.8049735,
+          -34.4380196
+        ]
+      },
+      "properties": {
+        "Nombre": "Natural Bronze - Pilar",
+        "Rubro": "Bronceado",
+        "Foto": "https://drive.google.com/uc?id=1Q3z5xfyWmAFw35gfr9VCEPDSi1IIGOiT",
+        "URL Store": "https://agenddo.com/natural-bronze-pilar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5633649,
+          -34.6437897
+        ]
+      },
+      "properties": {
+        "Nombre": "Natural Bronze - Ramos Mejía",
+        "Rubro": "Bronceado",
+        "Foto": "https://drive.google.com/uc?id=1Q3z5xfyWmAFw35gfr9VCEPDSi1IIGOiT",
+        "URL Store": "https://agenddo.com/natural-bronze-ramos-mejia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3931305,
+          -34.5956893
+        ]
+      },
+      "properties": {
+        "Nombre": "Natural Bronze - Recoleta",
+        "Rubro": "Bronceado",
+        "Foto": "https://drive.google.com/uc?id=1Q3z5xfyWmAFw35gfr9VCEPDSi1IIGOiT",
+        "URL Store": "https://agenddo.com/natural-bronze-recoleta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5120436,
+          -34.4686756
+        ]
+      },
+      "properties": {
+        "Nombre": "Natural Bronze - San Isidro",
+        "Rubro": "Bronceado",
+        "Foto": "https://drive.google.com/uc?id=1Q3z5xfyWmAFw35gfr9VCEPDSi1IIGOiT",
+        "URL Store": "https://agenddo.com/natural-bronze-san-isidro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4829611,
+          -34.5751452
+        ]
+      },
+      "properties": {
+        "Nombre": "Natural Bronze - Urquiza",
+        "Rubro": "Bronceado",
+        "Foto": "https://drive.google.com/uc?id=1Q3z5xfyWmAFw35gfr9VCEPDSi1IIGOiT",
+        "URL Store": "https://agenddo.com/natural-bronze-urquiza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4389523,
+          -34.5846064
+        ]
+      },
+      "properties": {
+        "Nombre": "New Life Dermoestética",
+        "Rubro": [
+          "Depilación",
+          "Tratamientos",
+          "Spa"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1X7w701zL1BLgG5UndzSQhBl6USX17xec",
+        "URL Store": "https://agenddo.com/new-life-dermoestetica"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4537673,
+          -34.5592758
+        ]
+      },
+      "properties": {
+        "Nombre": "New Studio Belgrano",
+        "Rubro": [
+          "Peluquería",
+          "Manicura",
+          "Depilación",
+          "Barbería",
+          "EyeBeauty",
+          "Masajes",
+          "MakeUp"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1ulAjpGPWHxOBMU9gFpkXdWm2IrGh6IrS",
+        "URL Store": "https://agenddo.com/new-studio-belgrano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4292942,
+          -34.6151627
+        ]
+      },
+      "properties": {
+        "Nombre": "Nifty - Almagro",
+        "Rubro": [
+          "Manicura",
+          "EyeBeauty",
+          "Pedicura"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1l7owXJjjWTtW7nyVWgYdq24UvdalHPb7",
+        "URL Store": "https://agenddo.com/nifty-almagro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4159837,
+          -34.6099575
+        ]
+      },
+      "properties": {
+        "Nombre": "Nifty - Almagro II",
+        "Rubro": [
+          "Manicura",
+          "EyeBeauty",
+          "Pedicura"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1l7owXJjjWTtW7nyVWgYdq24UvdalHPb7",
+        "URL Store": "https://agenddo.com/nifty-almagro-ii"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4614666,
+          -34.5649516
+        ]
+      },
+      "properties": {
+        "Nombre": "Nifty - Belgrano 1",
+        "Rubro": [
+          "Manicura",
+          "EyeBeauty"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1l7owXJjjWTtW7nyVWgYdq24UvdalHPb7",
+        "URL Store": "https://agenddo.com/nifty-belgrano-1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4561754,
+          -34.5544449
+        ]
+      },
+      "properties": {
+        "Nombre": "Nifty - Belgrano 2",
+        "Rubro": [
+          "Manicura",
+          "EyeBeauty"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1l7owXJjjWTtW7nyVWgYdq24UvdalHPb7",
+        "URL Store": "https://agenddo.com/nifty-belgrano-2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.6554567,
+          -34.6386711
+        ]
+      },
+      "properties": {
+        "Nombre": "Nifty - Castelar",
+        "Rubro": [
+          "Manicura",
+          "EyeBeauty",
+          "Pedicura"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1l7owXJjjWTtW7nyVWgYdq24UvdalHPb7",
+        "URL Store": "https://agenddo.com/nifty-castelar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4524869,
+          -34.5825581
+        ]
+      },
+      "properties": {
+        "Nombre": "Nifty - Chacarita",
+        "Rubro": [
+          "Manicura",
+          "EyeBeauty",
+          "Pedicura"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1l7owXJjjWTtW7nyVWgYdq24UvdalHPb7",
+        "URL Store": "https://agenddo.com/nifty-chacarita"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.459444,
+          -34.5727889
+        ]
+      },
+      "properties": {
+        "Nombre": "Nifty - Colegiales",
+        "Rubro": [
+          "Manicura",
+          "EyeBeauty"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1l7owXJjjWTtW7nyVWgYdq24UvdalHPb7",
+        "URL Store": "https://agenddo.com/nifty-colegiales"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.401969,
+          -34.7643004
+        ]
+      },
+      "properties": {
+        "Nombre": "Nifty - Lomas de Zamora",
+        "Rubro": [
+          "Manicura",
+          "EyeBeauty",
+          "Pedicura"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1l7owXJjjWTtW7nyVWgYdq24UvdalHPb7",
+        "URL Store": "https://agenddo.com/nifty-lomas-de-zamora"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.474943,
+          -34.581364
+        ]
+      },
+      "properties": {
+        "Nombre": "Nifty - Los Incas",
+        "Rubro": [
+          "Manicura",
+          "EyeBeauty",
+          "Pedicura"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1l7owXJjjWTtW7nyVWgYdq24UvdalHPb7",
+        "URL Store": "https://agenddo.com/nifty-los-incas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.499254,
+          -34.4880025
+        ]
+      },
+      "properties": {
+        "Nombre": "Nifty - Martínez",
+        "Rubro": [
+          "Manicura",
+          "EyeBeauty",
+          "Pedicura"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1l7owXJjjWTtW7nyVWgYdq24UvdalHPb7",
+        "URL Store": "https://agenddo.com/nifty-Martínez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4193421,
+          -34.5850764
+        ]
+      },
+      "properties": {
+        "Nombre": "Nifty - Palermo",
+        "Rubro": [
+          "Manicura",
+          "EyeBeauty"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1l7owXJjjWTtW7nyVWgYdq24UvdalHPb7",
+        "URL Store": "https://agenddo.com/nifty-palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.2613236,
+          -34.7185885
+        ]
+      },
+      "properties": {
+        "Nombre": "Nifty - Quilmes",
+        "Rubro": [
+          "Manicura",
+          "EyeBeauty",
+          "Pedicura"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1l7owXJjjWTtW7nyVWgYdq24UvdalHPb7",
+        "URL Store": "https://agenddo.com/nifty-quilmes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3957291,
+          -34.5899414
+        ]
+      },
+      "properties": {
+        "Nombre": "Nifty - Recoleta",
+        "Rubro": [
+          "Manicura",
+          "EyeBeauty"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1l7owXJjjWTtW7nyVWgYdq24UvdalHPb7",
+        "URL Store": "https://agenddo.com/nifty-recoleta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5082868,
+          -34.4707732
+        ]
+      },
+      "properties": {
+        "Nombre": "Nifty - San Isidro",
+        "Rubro": [
+          "Manicura",
+          "EyeBeauty",
+          "Pedicura"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1l7owXJjjWTtW7nyVWgYdq24UvdalHPb7",
+        "URL Store": "https://agenddo.com/nifty-san-isidro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4391144,
+          -34.5986895
+        ]
+      },
+      "properties": {
+        "Nombre": "Nifty - Villa Crespo",
+        "Rubro": [
+          "Manicura",
+          "EyeBeauty"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1l7owXJjjWTtW7nyVWgYdq24UvdalHPb7",
+        "URL Store": "https://agenddo.com/nifty-villa-crespo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.488439,
+          -34.6034057
+        ]
+      },
+      "properties": {
+        "Nombre": "Nifty - Villa del Parque",
+        "Rubro": [
+          "Manicura",
+          "EyeBeauty",
+          "Pedicura"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1l7owXJjjWTtW7nyVWgYdq24UvdalHPb7",
+        "URL Store": "https://agenddo.com/nifty-villa-del-parque"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5033487,
+          -34.6002407
+        ]
+      },
+      "properties": {
+        "Nombre": "Nifty - Villa Devoto",
+        "Rubro": [
+          "Manicura",
+          "EyeBeauty",
+          "Pedicura"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1l7owXJjjWTtW7nyVWgYdq24UvdalHPb7",
+        "URL Store": "https://agenddo.com/nifty-villa-devoto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4544578,
+          -34.5674491
+        ]
+      },
+      "properties": {
+        "Nombre": "Nuevo Módulo 2",
+        "Rubro": [
+          "Peluquería",
+          "Manicura",
+          "Tratamientos"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1PFLg4jV95iCdnXGe9BUuhqbMz8KxGxeG",
+        "URL Store": "https://agenddo.com/nuevo-modulo-2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.422006,
+          -34.5826511
+        ]
+      },
+      "properties": {
+        "Nombre": "Only Esthetic",
+        "Rubro": "Centro Estética",
+        "Foto": "https://drive.google.com/uc?id=124uTsHxR6lMGhSsACSgItiD6nOTCptcV",
+        "URL Store": "https://agenddo.com/only-esthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4100005,
+          -34.589287
+        ]
+      },
+      "properties": {
+        "Nombre": "Palermo Medicina Estética",
+        "Rubro": "Medicina estética",
+        "Foto": "https://drive.google.com/uc?id=1BJBEVs3IQwLaSaMiQZhBlic5of_yNfW2",
+        "URL Store": "https://agenddo.com/palermo-medicina-estetica"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4351488,
+          -34.5828586
+        ]
+      },
+      "properties": {
+        "Nombre": "Pelo’s House",
+        "Rubro": "Peluquería",
+        "Foto": "https://drive.google.com/uc?id=1D_xW_iFPy6xztMVW-tppxWa95XjlWeUd",
+        "URL Store": "https://agenddo.com/pelo’s-house"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4377306,
+          -34.5834542
+        ]
+      },
+      "properties": {
+        "Nombre": "Peluquería Filo",
+        "Rubro": [
+          "Peluquería",
+          "Manicura",
+          "Barbería"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1R2pcT8pcVGPadreTeD1TV6M28t-XFfg6",
+        "URL Store": "https://agenddo.com/peluqueria-filo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4528419,
+          -34.5829409
+        ]
+      },
+      "properties": {
+        "Nombre": "Peluquería Il Figaro",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1EFPRiPDUI0vhD6UJHi4YgQnbA53PLIvD",
+        "URL Store": "https://agenddo.com/peluqueria-il-figaro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4594581,
+          -34.560122
+        ]
+      },
+      "properties": {
+        "Nombre": "Peluquería y Barbería Montesco",
+        "Rubro": [
+          "Barbería",
+          "Peluquería"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1YcsPh1lhqCs4CcmSHZImPI9MnESyE89D",
+        "URL Store": "https://agenddo.com/peluqueria-y-barberia-montesco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4206827,
+          -34.6030381
+        ]
+      },
+      "properties": {
+        "Nombre": "Penny Nail",
+        "Rubro": "Manicura",
+        "Foto": "https://drive.google.com/uc?id=19Wq-QWSC24aPEki9CYszfYCy3vmdGpoA",
+        "URL Store": "https://agenddo.com/penny-nail"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4601034,
+          -34.5656962
+        ]
+      },
+      "properties": {
+        "Nombre": "Prana Peluquería De Diseño - Crámer",
+        "Rubro": "Peluquería",
+        "Foto": "https://drive.google.com/uc?id=1ZARYu3KIVX6wm4B7bhE0ZbR5q61R3OyU",
+        "URL Store": "https://agenddo.com/prana-peluqueria-de-diseño-cramer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4189185,
+          -34.5891022
+        ]
+      },
+      "properties": {
+        "Nombre": "Prana Peluquería De Diseño - Palermo",
+        "Rubro": "Peluquería",
+        "Foto": "https://drive.google.com/uc?id=1ZARYu3KIVX6wm4B7bhE0ZbR5q61R3OyU",
+        "URL Store": "https://agenddo.com/prana-peluqueria-de-diseño-palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4396787,
+          -34.5770735
+        ]
+      },
+      "properties": {
+        "Nombre": "Puro Glamour",
+        "Rubro": "Peluquería",
+        "Foto": "https://drive.google.com/uc?id=1JA_yObGMMRNihIygSLr4HUREhqtFPm_c",
+        "URL Store": "https://agenddo.com/puro-glamour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4300033,
+          -34.5944893
+        ]
+      },
+      "properties": {
+        "Nombre": "Quiero Mis Cejas",
+        "Rubro": "EyeBeauty",
+        "Foto": "https://drive.google.com/uc?id=1l60hLQPxtcbHOuld3-5LfpCQvPSQWnHV",
+        "URL Store": "https://agenddo.com/quiero-mis-cejas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4304982,
+          -34.6171287
+        ]
+      },
+      "properties": {
+        "Nombre": "Roho Hair Boutique - Caballito",
+        "Rubro": "Peluquería",
+        "Foto": "https://drive.google.com/uc?id=1xzZIXngzLwvbPcYhFFzZvl7ai9H9BHs-",
+        "URL Store": "https://agenddo.com/roho-hair-boutique-caballito"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.442893,
+          -34.5787433
+        ]
+      },
+      "properties": {
+        "Nombre": "Roho Hair Boutique - Palermo",
+        "Rubro": "Peluquería",
+        "Foto": "https://drive.google.com/uc?id=1xzZIXngzLwvbPcYhFFzZvl7ai9H9BHs-",
+        "URL Store": "https://agenddo.com/roho-hair-boutique-palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.432667,
+          -34.582187
+        ]
+      },
+      "properties": {
+        "Nombre": "Rústica Peluquería Barbería",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1njcQfCcnstkAI2ezxMWj_zqOBbB2YqOB",
+        "URL Store": "https://agenddo.com/rustica-peluqueria-barberia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4612317,
+          -34.5589608
+        ]
+      },
+      "properties": {
+        "Nombre": "Sakura Beauty Salon",
+        "Rubro": [
+          "Cejas",
+          "Pestañas"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1A0IesoakHHLi6WXpHKdIBkRQjh6fdLPj",
+        "URL Store": "https://agenddo.com/sakura-beauty-salon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4120526,
+          -34.5911013
+        ]
+      },
+      "properties": {
+        "Nombre": "Salón de Belleza Omar Silvero",
+        "Rubro": "Peluquería",
+        "Foto": "https://drive.google.com/uc?id=1P_jtREcl7ue1dYN16zRUPZWrvu5G91mD",
+        "URL Store": "https://agenddo.com/salon-de-belleza-omar-silvero"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3945124,
+          -34.5894785
+        ]
+      },
+      "properties": {
+        "Nombre": "Sanders",
+        "Rubro": "Peluquería",
+        "Foto": "https://drive.google.com/uc?id=1P_jtREcl7ue1dYN16zRUPZWrvu5G91mD",
+        "URL Store": "https://agenddo.com/sanders"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4501816,
+          -34.5789325
+        ]
+      },
+      "properties": {
+        "Nombre": "Santino - Colegiales",
+        "Rubro": [
+          "Peluquería",
+          "Manicura",
+          "Depilación"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1XdTTlaVlpHpu6eHqP0Xe5khkvmeoM_M7",
+        "URL Store": "https://agenddo.com/santino-colegiales"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4285624,
+          -34.5776525
+        ]
+      },
+      "properties": {
+        "Nombre": "Santino - Palermo",
+        "Rubro": [
+          "Peluquería",
+          "Manicura",
+          "Depilación"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1XdTTlaVlpHpu6eHqP0Xe5khkvmeoM_M7",
+        "URL Store": "https://agenddo.com/santino-palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4602672,
+          -34.5768076
+        ]
+      },
+      "properties": {
+        "Nombre": "Sarkirian",
+        "Rubro": [
+          "Peluquería",
+          "Manicura"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1A0IesoakHHLi6WXpHKdIBkRQjh6fdLPj",
+        "URL Store": "https://agenddo.com/sarkirian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4172373,
+          -34.589766
+        ]
+      },
+      "properties": {
+        "Nombre": "Sensoria Estética & Spa",
+        "Rubro": [
+          "Tratamientos",
+          "Depilación",
+          "Manicura"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1gxAwjwxouUVYNaXRoQHeAqDpewB_cZHl",
+        "URL Store": "https://agenddo.com/sensoria-estetica-&-spa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.460337,
+          -34.5741062
+        ]
+      },
+      "properties": {
+        "Nombre": "sergio.delriocanosa",
+        "Rubro": "Peluquería",
+        "Foto": "https://drive.google.com/uc?id=1F8uM9mkWpOwSd47odbNQGXrXYgCLYZ_M",
+        "URL Store": "https://agenddo.com/sergio-delriocanosa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4503234,
+          -34.5501163
+        ]
+      },
+      "properties": {
+        "Nombre": "Shining - Belleza Saludable",
+        "Rubro": [
+          "Cosmetología",
+          "Tratamientos"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1-Y35kL5c3K7ZXqBMCLBjimx9FF7GOEJI",
+        "URL Store": "https://agenddo.com/shining-belleza-saludable"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4492923,
+          -34.5753487
+        ]
+      },
+      "properties": {
+        "Nombre": "Soylashista",
+        "Rubro": [
+          "Manicura",
+          "Depilación",
+          "Tratamientos",
+          "EyeBeauty"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1dQ_gGtCnjkeyygjk0EPYexj_jT8hAllm",
+        "URL Store": "https://agenddo.com/soylashista"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4392999,
+          -34.5987922
+        ]
+      },
+      "properties": {
+        "Nombre": "Spa & Estética CL",
+        "Rubro": [
+          "Masajes",
+          "Tratamientos"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1-Qg0612izp0D8nQoo6SOJOsvI7FoY7uX",
+        "URL Store": "https://agenddo.com/spa-&-estetica-cl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4579835,
+          -34.6039561
+        ]
+      },
+      "properties": {
+        "Nombre": "Spa Beauty Kd Angel's",
+        "Rubro": [
+          "Manicura",
+          "EyeBeauty",
+          "Depilación",
+          "Tratamientos"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1naszUZWOqL7cHcmQ2ObEmQSmtGRQOWb5",
+        "URL Store": "https://agenddo.com/spa-beauty-kd-angel's"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4461186,
+          -34.5753339
+        ]
+      },
+      "properties": {
+        "Nombre": "Studio AngieP",
+        "Rubro": [
+          "Manicura",
+          "EyeBeauty"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1j98_wfAmtDcJCn6-X-eD7Cbdyi1tR1mA",
+        "URL Store": "https://agenddo.com/studio-angiep"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4533751,
+          -34.6140272
+        ]
+      },
+      "properties": {
+        "Nombre": "Tan & Go",
+        "Rubro": "Bronceado",
+        "Foto": "https://drive.google.com/uc?id=1Iky88eOIlIPi_scYJ74VR9Q4Xr8FSFTS",
+        "URL Store": "https://agenddo.com/tan-&-go"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4639943,
+          -34.5544721
+        ]
+      },
+      "properties": {
+        "Nombre": "Tara Glamour",
+        "Rubro": [
+          "Cejas",
+          "Pestañas"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1AZBJ8kU91ArowxbXHfhe2JiSj0e2gt2Z",
+        "URL Store": "https://agenddo.com/tara-glamour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3878396,
+          -34.5972835
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Barrio Norte",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1gt8HavTnbcxU0SxJbEYYJr6LYcqGKt-U",
+        "URL Store": "https://agenddo.com/the-barber-job-barrio-norte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.458205,
+          -34.5716332
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Belgrano",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1gt8HavTnbcxU0SxJbEYYJr6LYcqGKt-U",
+        "URL Store": "https://agenddo.com/the-barber-job-belgrano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4290956,
+          -34.6255402
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Caballito",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1gt8HavTnbcxU0SxJbEYYJr6LYcqGKt-U",
+        "URL Store": "https://agenddo.com/the-barber-job-caballito"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4539104,
+          -34.6290182
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Flores",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1gt8HavTnbcxU0SxJbEYYJr6LYcqGKt-U",
+        "URL Store": "https://agenddo.com/the-barber-job-flores"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.430521,
+          -34.5726811
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Las Cañitas",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1gt8HavTnbcxU0SxJbEYYJr6LYcqGKt-U",
+        "URL Store": "https://agenddo.com/the-barber-job-las-cañitas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4004306,
+          -34.7569141
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Lomas Estación",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1gt8HavTnbcxU0SxJbEYYJr6LYcqGKt-U",
+        "URL Store": "https://agenddo.com/the-barber-job-lomas-estación"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4021765,
+          -34.7640349
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Lomitas",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1gt8HavTnbcxU0SxJbEYYJr6LYcqGKt-U",
+        "URL Store": "https://agenddo.com/the-barber-job-lomitas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3733715,
+          -34.6030592
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Microcentro",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1gt8HavTnbcxU0SxJbEYYJr6LYcqGKt-U",
+        "URL Store": "https://agenddo.com/the-barber-job-microcentro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4558155,
+          -34.6122955
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Plaza Irlanda",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1gt8HavTnbcxU0SxJbEYYJr6LYcqGKt-U",
+        "URL Store": "https://agenddo.com/the-barber-job-plaza-irlanda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3611094,
+          -34.6174827
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Puerto Madero",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1gt8HavTnbcxU0SxJbEYYJr6LYcqGKt-U",
+        "URL Store": "https://agenddo.com/the-barber-job-puerto-madero"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3883938,
+          -34.5887708
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Recoleta",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1gt8HavTnbcxU0SxJbEYYJr6LYcqGKt-U",
+        "URL Store": "https://agenddo.com/the-barber-job-recoleta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.378517,
+          -34.5967119
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Retiro",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1gt8HavTnbcxU0SxJbEYYJr6LYcqGKt-U",
+        "URL Store": "https://agenddo.com/the-barber-job-retiro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4710511,
+          -34.5281058
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Vicente Lopez",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1gt8HavTnbcxU0SxJbEYYJr6LYcqGKt-U",
+        "URL Store": "https://agenddo.com/the-barber-job-vicente-lopez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4941142,
+          -34.6046392
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Villa del Parque",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1gt8HavTnbcxU0SxJbEYYJr6LYcqGKt-U",
+        "URL Store": "https://agenddo.com/the-barber-job-villa-del-parque"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4489975,
+          -34.5814341
+        ]
+      },
+      "properties": {
+        "Nombre": "The Brow Army by Liz Sanchez",
+        "Rubro": "EyeBeauty",
+        "Foto": "https://drive.google.com/uc?id=1lsuV-8hZAICulbMz0QpyUx5WC70VqNCF",
+        "URL Store": "https://agenddo.com/the-brow-army-by-liz-sanchez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4376843,
+          -34.567625
+        ]
+      },
+      "properties": {
+        "Nombre": "Vāltik - El Solar Shopping",
+        "Rubro": [
+          "Peluquería",
+          "Manicura"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1Mtzh14uhjXRMVQzQ5q4fZyetAcP8nNqo",
+        "URL Store": "https://agenddo.com/valtik-el-solar-shopping"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4117462,
+          -34.5868387
+        ]
+      },
+      "properties": {
+        "Nombre": "Vāltik - Vidt",
+        "Rubro": [
+          "Peluquería",
+          "Manicura"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1Mtzh14uhjXRMVQzQ5q4fZyetAcP8nNqo",
+        "URL Store": "https://agenddo.com/valtik-vidt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4063942,
+          -34.5893787
+        ]
+      },
+      "properties": {
+        "Nombre": "Verdini Peluquería - Recoleta",
+        "Rubro": "Peluquería",
+        "Foto": "https://drive.google.com/uc?id=1-DeJU3Gkhigu2YHUYc7LPXkJt-h_c2wj",
+        "URL Store": "https://agenddo.com/verdini-peluqueria-recoleta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4531429,
+          -34.5623696
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Belgrano",
+        "Rubro": "Peluquería",
+        "Foto": "https://drive.google.com/uc?id=1lKBYhmn5jQLu7xahWPpWnRH6rGj232l8",
+        "URL Store": "https://agenddo.com/vipeluqueria's-(leo-paparella)-belgrano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4166844,
+          -34.6227237
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Boedo",
+        "Rubro": "Peluquería",
+        "Foto": "https://drive.google.com/uc?id=1lKBYhmn5jQLu7xahWPpWnRH6rGj232l8",
+        "URL Store": "https://agenddo.com/vipeluqueria's-(leo-paparella)-boedo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4369776,
+          -34.6179592
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Caballito",
+        "Rubro": "Peluquería",
+        "Foto": "https://drive.google.com/uc?id=1lKBYhmn5jQLu7xahWPpWnRH6rGj232l8",
+        "URL Store": "https://agenddo.com/vipeluqueria's-(leo-paparella)-caballito"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.504322,
+          -34.856248
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Canning",
+        "Rubro": "Peluquería",
+        "Foto": "https://drive.google.com/uc?id=1lKBYhmn5jQLu7xahWPpWnRH6rGj232l8",
+        "URL Store": "https://agenddo.com/vipeluqueria's-(leo-paparella)-canning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4348895,
+          -34.5670563
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Cañitas",
+        "Rubro": "Peluquería",
+        "Foto": "https://drive.google.com/uc?id=1lKBYhmn5jQLu7xahWPpWnRH6rGj232l8",
+        "URL Store": "https://agenddo.com/vipeluqueria's-(leo-paparella)-cañitas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.441943,
+          -34.608423
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Centenario",
+        "Rubro": "Peluquería",
+        "Foto": "https://drive.google.com/uc?id=1lKBYhmn5jQLu7xahWPpWnRH6rGj232l8",
+        "URL Store": "https://agenddo.com/vipeluqueria's-(leo-paparella)-centenario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5084103,
+          -34.6039153
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Devoto",
+        "Rubro": "Peluquería",
+        "Foto": "https://drive.google.com/uc?id=1lKBYhmn5jQLu7xahWPpWnRH6rGj232l8",
+        "URL Store": "https://agenddo.com/vipeluqueria's-(leo-paparella)-devoto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3752252,
+          -34.5993002
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Galerías Pacífico",
+        "Rubro": "Peluquería",
+        "Foto": "https://drive.google.com/uc?id=1lKBYhmn5jQLu7xahWPpWnRH6rGj232l8",
+        "URL Store": "https://agenddo.com/vipeluqueria's-(leo-paparella)-galerias-pacifico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5402131,
+          -38.0083397
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Mar del Plata",
+        "Rubro": "Peluquería",
+        "Foto": "https://drive.google.com/uc?id=1lKBYhmn5jQLu7xahWPpWnRH6rGj232l8",
+        "URL Store": "https://agenddo.com/vipeluqueria's-(leo-paparella)-mar-del-plata"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5437628,
+          -38.0123927
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - MDQ Paseo Aldrey",
+        "Rubro": "Peluquería",
+        "Foto": "https://drive.google.com/uc?id=1lKBYhmn5jQLu7xahWPpWnRH6rGj232l8",
+        "URL Store": "https://agenddo.com/vipeluqueria's-(leo-paparella)-mdq-paseo-aldrey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4785796,
+          -34.5094648
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Olivos",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1lKBYhmn5jQLu7xahWPpWnRH6rGj232l8",
+        "URL Store": "https://agenddo.com/vipeluqueria's-(leo-paparella)-olivos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4137468,
+          -34.5852018
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Palermo",
+        "Rubro": "Peluquería",
+        "Foto": "https://drive.google.com/uc?id=1lKBYhmn5jQLu7xahWPpWnRH6rGj232l8",
+        "URL Store": "https://agenddo.com/vipeluqueria's-(leo-paparella)-palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.8659776,
+          -34.4570929
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Palmas de Pilar",
+        "Rubro": [
+          "Peluquería",
+          "Manicura"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1lKBYhmn5jQLu7xahWPpWnRH6rGj232l8",
+        "URL Store": "https://agenddo.com/vipeluqueria's-(leo-paparella)-palmas-de-pilar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4383113,
+          -34.6347766
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Parque Chacabuco",
+        "Rubro": "Peluquería",
+        "Foto": "https://drive.google.com/uc?id=1lKBYhmn5jQLu7xahWPpWnRH6rGj232l8",
+        "URL Store": "https://agenddo.com/vipeluqueria's-(leo-paparella)-parque-chacabuco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4267667,
+          -34.5742714
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Portal Palermo",
+        "Rubro": "Peluquería",
+        "Foto": "https://drive.google.com/uc?id=1lKBYhmn5jQLu7xahWPpWnRH6rGj232l8",
+        "URL Store": "https://agenddo.com/vipeluqueria's-(leo-paparella)-portal-palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3629846,
+          -34.6170045
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Puerto Madero",
+        "Rubro": [
+          "Peluquería",
+          "Manicura",
+          "Barbería"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1lKBYhmn5jQLu7xahWPpWnRH6rGj232l8",
+        "URL Store": "https://agenddo.com/vipeluqueria's-(leo-paparella)-puerto-madero"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5648212,
+          -34.6460449
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Ramos Mejía",
+        "Rubro": "Peluquería",
+        "Foto": "https://drive.google.com/uc?id=1lKBYhmn5jQLu7xahWPpWnRH6rGj232l8",
+        "URL Store": "https://agenddo.com/vipeluqueria's-(leo-paparella)-ramos-mejia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3840578,
+          -34.5958018
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Recoleta",
+        "Rubro": "Peluquería",
+        "Foto": "https://drive.google.com/uc?id=1lKBYhmn5jQLu7xahWPpWnRH6rGj232l8",
+        "URL Store": "https://agenddo.com/vipeluqueria's-(leo-paparella)-recoleta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4109897,
+          -34.6038802
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Shoppping Abasto",
+        "Rubro": "Peluquería",
+        "Foto": "https://drive.google.com/uc?id=1lKBYhmn5jQLu7xahWPpWnRH6rGj232l8",
+        "URL Store": "https://agenddo.com/vipeluqueria's-(leo-paparella)-shoppping-abasto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.694666,
+          -34.4625598
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Tortugas Open Mall",
+        "Rubro": [
+          "Peluquería",
+          "Manicura"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1lKBYhmn5jQLu7xahWPpWnRH6rGj232l8",
+        "URL Store": "https://agenddo.com/vipeluqueria's-(leo-paparella)-tortugas-open-mall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5231694,
+          -34.5086035
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Unicenter",
+        "Rubro": "Peluquería",
+        "Foto": "https://drive.google.com/uc?id=1lKBYhmn5jQLu7xahWPpWnRH6rGj232l8",
+        "URL Store": "https://agenddo.com/vipeluqueria's-(leo-paparella)-unicenter"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4803004,
+          -34.4900042
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Unicenter Barber Shop",
+        "Rubro": "Peluquería",
+        "Foto": "https://drive.google.com/uc?id=1lKBYhmn5jQLu7xahWPpWnRH6rGj232l8",
+        "URL Store": "https://agenddo.com/vipeluqueria's-(leo-paparella)-unicenter-barber-shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5544845,
+          -34.5508912
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Villa Ballester",
+        "Rubro": "Peluquería",
+        "Foto": "https://drive.google.com/uc?id=1lKBYhmn5jQLu7xahWPpWnRH6rGj232l8",
+        "URL Store": "https://agenddo.com/vipeluqueria's-(leo-paparella)-villa-ballester"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4968647,
+          -34.6020809
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Villa del Parque",
+        "Rubro": "Peluquería",
+        "Foto": "https://drive.google.com/uc?id=1lKBYhmn5jQLu7xahWPpWnRH6rGj232l8",
+        "URL Store": "https://agenddo.com/vipeluqueria's-(leo-paparella)-villa-del-parque"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4703827,
+          -34.5476164
+        ]
+      },
+      "properties": {
+        "Nombre": "Viva Le Glam Studio - Saavedra",
+        "Rubro": [
+          "Manicura",
+          "EyeBeauty",
+          "Depilación",
+          "Masajes",
+          "Tratamientos",
+          "Bronceado"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1xGPXDiaPa1_SyAbZ0K2-naGf38_XrI4t",
+        "URL Store": "https://agenddo.com/viva-le-glam-studio-saavedra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3627969,
+          -34.6159069
+        ]
+      },
+      "properties": {
+        "Nombre": "Wings Nails",
+        "Rubro": "Manicura",
+        "Foto": "https://drive.google.com/uc?id=1b4TOIFSImG7Lkcg2tCVEnoVoVQka2l2S",
+        "URL Store": "https://agenddo.com/wings-nails"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4484379,
+          -34.5738182
+        ]
+      },
+      "properties": {
+        "Nombre": "YS Estética Integral",
+        "Rubro": [
+          "EyeBeauty",
+          "Tratamientos"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1iiel9e68rpRxXAYNc_-MXWtwjmQjnHSD",
+        "URL Store": "https://agenddo.com/ys-estetica-integral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4573576,
+          -34.5642992
+        ]
+      },
+      "properties": {
+        "Nombre": "YuseBeauty Spa de miradas",
+        "Rubro": [
+          "EyeBeauty",
+          "Labios"
+        ],
+        "Foto": "https://drive.google.com/uc?id=10Pd-1eqro4bu1j9s5XWDumR28CTjCJxd",
+        "URL Store": "https://agenddo.com/yusebeauty-spa-de-miradas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4326542,
+          -34.5701403
+        ]
+      },
+      "properties": {
+        "Nombre": "Zentara",
+        "Rubro": [
+          "Manicura",
+          "Tratamientos"
+        ],
+        "Foto": "https://drive.google.com/uc?id=1bZYG79RNwWv7Iu8JdA9VcQk-QhI6h8AQ",
+        "URL Store": "https://agenddo.com/zentara"
+      }
+    }
+  ]
+}
