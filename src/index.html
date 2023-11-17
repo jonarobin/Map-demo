@@ -1,3 +1,5 @@
+<!-- index.html -->
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -26,7 +28,8 @@
         </div>
         <div class="row mt-3">
             <div class="col">
-                <div id="map"></div>
+                <!-- Agrega un identificador al iframe -->
+                <iframe id="mapFrame" src="mapa.html" width="600" height="400"></iframe>
             </div>
         </div>
     </div>
@@ -34,6 +37,16 @@
     <script src="https://cdn.jsdelivr.net/npm/mdb-ui-kit/js/mdb.min.js"></script>
     <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
     <script src="main.js"></script>
+
+    <script>
+        window.onload = function () {
+            var iframe = document.getElementById('mapFrame');
+            iframe.contentWindow.addEventListener('load', function () {
+                // Ajusta el tamaño del mapa después de cargar el contenido del iframe
+                iframe.contentWindow.adjustMapSize();
+            });
+        };
+    </script>
 </body>
 
 </html>
